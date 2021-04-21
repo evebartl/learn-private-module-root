@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-est-1"
+  region = "us-east-1"
 }
 
 module "s3-webapp" {
